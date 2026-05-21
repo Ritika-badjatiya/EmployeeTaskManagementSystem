@@ -49,3 +49,51 @@ This project provides task assignment, employee management, project tracking, au
 - Bootstrap 5 UI
 - Animated Dashboard
 - Glass
+
+- ## 🎨 UI/UX Features
+- Responsive Design
+- Bootstrap 5 UI
+- Animated Dashboard
+- Glassmorphism Navbar
+- Dark Mode
+- Mobile Friendly Design
+
+---
+
+# 🛠️ Technologies Used
+
+- ASP.NET Core MVC
+- C#
+- SQL Server
+- Entity Framework Core
+- Bootstrap 5
+- Chart.js
+- JavaScript
+- HTML/CSS
+
+---
+
+# 📂 Modules
+
+- Authentication Module
+- Employee Management
+- Task Management
+- Project Management
+- Reports & Analytics
+
+---
+
+# 📈 Future Enhancements
+
+- Email Notifications
+- AI Task Prediction
+- Real-Time Chat
+- Cloud Deployment
+
+---
+
+# 👩‍💻 Developed By
+
+Ritika Badjatiya
+
+MCA Final Year Project
