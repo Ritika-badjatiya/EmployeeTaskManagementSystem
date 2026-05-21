@@ -44,11 +44,7 @@ This project provides task assignment, employee management, project tracking, au
 - Performance Reports
 - Export Data to Excel
 
-## 🎨 UI/UX Features
-- Responsive Design
-- Bootstrap 5 UI
-- Animated Dashboard
-- Glass
+
 
 - ## 🎨 UI/UX Features
 - Responsive Design
